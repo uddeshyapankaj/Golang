@@ -1,3 +1,3 @@
-module example.com/first-app
+module example.com/profit-calculator
 
 go 1.22.1
